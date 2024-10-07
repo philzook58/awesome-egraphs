@@ -8,7 +8,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
   - [Table of Contents](#table-of-contents)
   - [Community](#community)
   - [Projects](#projects)
-  - [Papers](#papers)
+  - [General](#general)
   - [Applications](#applications)
     - [Hardware](#hardware)
     - [Program Synthesis](#program-synthesis)
@@ -52,9 +52,10 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[egraphs.cpp](https://github.com/can-lehmann/egraphs.cpp)
 - **[eqsat](https://github.com/taktoa/eqsat)**
 
-## Papers
+## General
 
 - [Fast Decision Procedures Based on Congruence Closure](https://dl.acm.org/doi/10.1145/322186.322198)
+- [Efficient E-matching for SMT Solvers](https://leodemoura.github.io/files/ematching.pdf)
 - [egg](https://arxiv.org/abs/2004.03082) Fast and Extensible Equality Saturation
 - [egglog](https://dl.acm.org/doi/abs/10.1145/3591239) Better Together: Unifying Datalog and Equality Saturation
 - [Colored Egraphs](https://github.com/eytans/easter-egg)
@@ -77,8 +78,7 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 - **[Infinity Stream](https://dl.acm.org/doi/10.1145/3582016.3582032)**: Portable and Programmer-Friendly In-/Near-Memory Fusion.  
   *ASPLOS 2023*.
 
-- [Lakeroad](https://github.com/gussmith23/lakeroad)
-...
+- **[Lakeroad](https://github.com/gussmith23/lakeroad)**
 
 ### Program Synthesis
 
@@ -91,8 +91,6 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 - **[enumo](https://dl.acm.org/doi/10.1145/3622834)**: Equality Saturation Theory Exploration à la Carte.  
   *OOPSLA 2023*.
 
-...
-
 ### Program Optimization
 
 - **[Herbie](https://herbie.uwplse.org/pldi15-paper.pdf)**: Automatically Improving Accuracy for Floating Point Expressions.  
@@ -104,19 +102,22 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 - **[Felix](https://dl.acm.org/doi/10.1145/3620666.3651348)**: Optimizing Tensor Programs with Gradient Descent.  
   *ASPLOS 2024*.
 
-- [aegraphs](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf) ægraphs: Acyclic E-graphs
+- **[aegraphs](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf)**: Acyclic E-graphs
 for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328>
 
-- [peggy](https://cseweb.ucsd.edu/~rtate/publications/eqsat/) Equality Saturation: A New Approach to Optimization
+- **[Sketch-Guided Equality Saturation](https://arxiv.org/abs/2111.13040)**:  Scaling Equality Saturation to Complex Optimizations of Functional Programs
+
+- **[peggy](https://cseweb.ucsd.edu/~rtate/publications/eqsat/)** Equality Saturation: A New Approach to Optimization
 
 - RVSDG
 
-- [Denali](https://dl.acm.org/doi/abs/10.1145/1186632.1186633)  A practical algorithm for generating optimal code
+- **[Denali](https://dl.acm.org/doi/abs/10.1145/1186632.1186633)**  A practical algorithm for generating optimal code
 
-- Glenside
+- **[Glenside]**(<https://arxiv.org/pdf/2105.09377>) Pure Tensor Program Rewriting via Access Patterns
 
 - [Simplifying MBA Expression Using E-Graphs](https://arxiv.org/abs/2404.05431)
-...
+
+- **[SPORES](https://dl.acm.org/doi/10.14778/3407790.3407799)** sum-product optimization via relational equality saturation for large scale linear algebra
 
 ### ML Systems
 
@@ -126,8 +127,6 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[PolyJuice](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/polyjuice_oopsla24.pdf)**: Detecting Mis-compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting.  
   *OOPSLA 2024*.
 
-...
-
 ### Security
 
 - **[MetaEmu](https://dl.acm.org/doi/10.1145/3548606.3559338)**: An Architecture Agnostic Rehosting Framework for Automotive Firmware.  
@@ -136,8 +135,6 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[wasm-evasion](https://www.sciencedirect.com/science/article/pii/S0167404823002067)**: WebAssembly diversification for malware evasion.  
   *COSE 2023*.
 
-...
-
 ### Databases
 
 - **[RisingLight](https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg/)**: Write a SQL Optimizer using Egg.  
@@ -145,8 +142,6 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[Hydro](https://arxiv.org/abs/2306.10585)**: Optimizing Stateful Dataflow with Local Rewrites.  
   *EGRAPHS 2023*.
-
-...
 
 ### Verification
 
@@ -160,41 +155,29 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [cyclegg](https://github.com/nadia-polikarpova/cyclegg)
 - [coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)
 
-...
-
 ### Differentiable Programming
 
 - **[∇SD](https://ieeexplore.ieee.org/document/10444787)**: A Tensor Algebra Compiler for Sparse Differentiation.  
   *CGO 2024*.
-
-...
 
 ### Quantum Computation
 
 - **[VyZX](https://arxiv.org/abs/2311.11571)**: Formal Verification of a Graphical Quantum Language with automated structural rewrites.  
   *Thesis 2023*.
 
-...
-
 ### Fabrication
 
 - **[Szalinski](https://dl.acm.org/doi/10.1145/3385412.3386012)**: Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations.  
   *PLDI 2020*.
-
-...
 
 ### Genomics
 
 - **[Maletskyi and Shymanskyi](https://ceur-ws.org/Vol-3609/paper21.pdf)**: Genome Compression Using Program Synthesis.  
   *IDDM 2023*.
 
-...
-
 ### Software Engineering
 
 - **[Cornelius](https://github.com/bkushigian/cornelius)**: Equivalent and redundant mutant detection with e-graphs!!!
-
-...
 
 ### Library Learning
 
