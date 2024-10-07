@@ -76,6 +76,12 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[Multiplier Optimization via E-Graph Rewriting](https://ieeexplore.ieee.org/abstract/document/10476812)**
 
+- **[SEER](https://dl.acm.org/doi/abs/10.1145/3620665.3640392)  Super-Optimization Explorer for High-Level Synthesis using E-graph Rewriting
+
+- **[ESFO](https://dl.acm.org/doi/abs/10.1145/3583781.3590239)**  Equality Saturation for FIRRTL Optimization
+
+- **[There and Back Again](https://arxiv.org/abs/2404.00786)**  A Netlist's Tale with Much Egraphin'
+
 ### Program Synthesis
 
 - **[Ruler](https://ztatlock.net/pub-2021-oopsla-ruler.html)**: Rewrite Rule Inference Using Equality Saturation.  *OOPSLA 2021*. Distinguished paper.
