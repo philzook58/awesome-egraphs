@@ -76,7 +76,7 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[Multiplier Optimization via E-Graph Rewriting](https://ieeexplore.ieee.org/abstract/document/10476812)**
 
-- **[SEER](https://dl.acm.org/doi/abs/10.1145/3620665.3640392)  Super-Optimization Explorer for High-Level Synthesis using E-graph Rewriting
+- **[SEER](https://dl.acm.org/doi/abs/10.1145/3620665.3640392)**  Super-Optimization Explorer for High-Level Synthesis using E-graph Rewriting
 
 - **[ESFO](https://dl.acm.org/doi/abs/10.1145/3583781.3590239)**  Equality Saturation for FIRRTL Optimization
 
@@ -143,7 +143,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 ### Other
 
-- **[YOGO](https://www.jameskoppel.com/files/papers/yogo-preprint.pdf)  Semantic Code Search via Equational Reasoning
+- **[YOGO](https://www.jameskoppel.com/files/papers/yogo-preprint.pdf)**  Semantic Code Search via Equational Reasoning
 
 - **[VyZX](https://arxiv.org/abs/2311.11571)**: Formal Verification of a Graphical Quantum Language with automated structural rewrites.  
   *Thesis 2023*.
