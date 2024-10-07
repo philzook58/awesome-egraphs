@@ -1,13 +1,13 @@
 # Awesome E-Graphs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources related to e-graphs, equality saturation, and their applications. Contributions are welcome! Thanks to [Yihong Zhang](https://effect.systems/) for initial list.
+A curated list of resources related to e-graphs, equality saturation, and their applications. Contributions are welcome! Thanks to [Yihong Zhang](https://effect.systems/) for the initial list.
 
 ## Table of Contents
 
 - [Awesome E-Graphs ](#awesome-e-graphs-)
   - [Table of Contents](#table-of-contents)
   - [Community](#community)
-  - [Egraph Implementations](#egraph-implementations)
+  - [Implementations](#implementations)
   - [General](#general)
   - [Applications](#applications)
     - [Hardware](#hardware)
@@ -37,9 +37,9 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[egraphs.org](https://egraphs.org/)**
 - **[zulip](https://egraphs.org/zulip/)**
 - **[Community Meetings](https://egraphs.org/meeting/)**
-- [PLDI EGRAPHS Workshop](https://pldi24.sigplan.org/home/egraphs-2024)
+- **[PLDI EGRAPHS Workshop](https://pldi24.sigplan.org/home/egraphs-2024)**
 
-## Egraph Implementations
+## Implementations
 
 - **[egg](https://egraphs-good.github.io/)**
 - **[egglog](https://github.com/egraphs-good/egglog)**
@@ -49,7 +49,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[hegg](https://hackage.haskell.org/package/hegg)** Haskell library
 - **[ego](https://github.com/verse-lab/ego)** OCaml library
 - **[quiche](https://github.com/riswords/quiche)**
-- **[egraphs.cpp](https://github.com/can-lehmann/egraphs.cpp)
+- **[egraphs.cpp](https://github.com/can-lehmann/egraphs.cpp)**
 - **[eqsat](https://github.com/taktoa/eqsat)**
 - **[eggmt](https://github.com/philzook58/eggmt)**
 
@@ -61,7 +61,8 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [egg](https://arxiv.org/abs/2004.03082) Fast and Extensible Equality Saturation
 - [egglog](https://dl.acm.org/doi/abs/10.1145/3591239) Better Together: Unifying Datalog and Equality Saturation
 - [Small Proofs from Congruence Closure](https://arxiv.org/abs/2209.03398)
-- [Colored Egraphs](https://github.com/eytans/easter-egg)
+- [Colored E-Graphs](https://github.com/eytans/easter-egg)
+- [Slotted E-Graphs](https://michel.steuwer.info/files/publications/2024/EGRAPHS-2024.pdf)
 
 ## Applications
 
@@ -112,13 +113,13 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[peggy](https://cseweb.ucsd.edu/~rtate/publications/eqsat/)** Equality Saturation: A New Approach to Optimization
 
-- RVSDG
+- **[optir](https://github.com/jameysharp/optir/)** RVSDG optimizing intermediate representation
 
 - **[Denali](https://dl.acm.org/doi/abs/10.1145/1186632.1186633)**  A practical algorithm for generating optimal code
 
-- **[Glenside]**(<https://arxiv.org/pdf/2105.09377>) Pure Tensor Program Rewriting via Access Patterns
+- **[Glenside](https://arxiv.org/pdf/2105.09377)** Pure Tensor Program Rewriting via Access Patterns
 
-- [Simplifying MBA Expression Using E-Graphs](https://arxiv.org/abs/2404.05431)
+- **[Simplifying MBA Expression Using E-Graphs](https://arxiv.org/abs/2404.05431)**
 
 - **[SPORES](https://dl.acm.org/doi/10.14778/3407790.3407799)** sum-product optimization via relational equality saturation for large scale linear algebra
 
@@ -153,10 +154,11 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 ### Theorem Proving
 
+- Most SMT solvers have an e-matching egraph implementation in them
 - **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean.  
   *Thesis 2023*.
-- [cyclegg](https://github.com/nadia-polikarpova/cyclegg)
-- [coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)
+- **[cyclegg](https://github.com/nadia-polikarpova/cyclegg)**
+- **[coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)**
 
 ### Differentiable Programming
 
