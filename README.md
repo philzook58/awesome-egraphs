@@ -45,6 +45,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[egraphs.cpp](https://github.com/can-lehmann/egraphs.cpp)**
 - **[eqsat](https://github.com/taktoa/eqsat)**
 - **[eggmt](https://github.com/philzook58/eggmt)**
+- **[ekege](https://github.com/miestrode/ekege)**
 
 ## General
 
