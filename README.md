@@ -174,9 +174,15 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 ### EGRAPHS 2024
 
+[Accepted Papers](https://pldi24.sigplan.org/home/egraphs-2024#event-overview)
+
 ### EGRAPHS 2023
 
+[Presentations](https://pldi23.sigplan.org/home/egraphs-2023#event-overview)
+
 ### EGRAPHS 2022
+
+[Accepted papers](https://pldi22.sigplan.org/home/egraphs-2022#event-overview)
 
 ## Blog Posts
 
