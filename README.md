@@ -64,44 +64,36 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 ### Hardware
 
-- **[Isaria](https://dl.acm.org/doi/10.1145/3617232.3624873)**: Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors.  
-  *ASPLOS 2024*. Best paper.
+- **[Isaria](https://dl.acm.org/doi/10.1145/3617232.3624873)**: Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors.   *ASPLOS 2024*. Best paper.
 
-- **[ROVER](https://arxiv.org/abs/2404.12336)**: Combining Power and Arithmetic Optimization via Datapath Rewriting.  
-  *ARITH 2024*.
+- **[ROVER](https://arxiv.org/abs/2404.12336)**: Combining Power and Arithmetic Optimization via Datapath Rewriting.   *ARITH 2024*.
 
-- **[Diospyros](https://dl.acm.org/doi/10.1145/3445814.3446707)**: Vectorization for Digital Signal Processors via Equality Saturation.  
-  *ASPLOS 2021*.
+- **[Diospyros](https://dl.acm.org/doi/10.1145/3445814.3446707)**: Vectorization for Digital Signal Processors via Equality Saturation.   *ASPLOS 2021*.
 
-- **[Infinity Stream](https://dl.acm.org/doi/10.1145/3582016.3582032)**: Portable and Programmer-Friendly In-/Near-Memory Fusion.  
-  *ASPLOS 2023*.
+- **[Infinity Stream](https://dl.acm.org/doi/10.1145/3582016.3582032)**: Portable and Programmer-Friendly In-/Near-Memory Fusion.  *ASPLOS 2023*.
 
-- **[Lakeroad](https://github.com/gussmith23/lakeroad)**
+- **[Lakeroad](https://arxiv.org/abs/2401.16526)** FPGA Technology Mapping Using Sketch-Guided Program Synthesis [repo](https://github.com/gussmith23/lakeroad)
+
+- **[Multiplier Optimization via E-Graph Rewriting](https://ieeexplore.ieee.org/abstract/document/10476812)**
 
 ### Program Synthesis
 
-- **[Ruler](https://ztatlock.net/pub-2021-oopsla-ruler.html)**: Rewrite Rule Inference Using Equality Saturation.  
-  *OOPSLA 2021*. Distinguished paper.
+- **[Ruler](https://ztatlock.net/pub-2021-oopsla-ruler.html)**: Rewrite Rule Inference Using Equality Saturation.  *OOPSLA 2021*. Distinguished paper.
 
-- **[CCLemma](https://dl.acm.org/doi/10.1145/3674653)**: E-Graph Guided Lemma Discovery for Inductive Equational Proofs.  
-  *ICFP 2024*.
+- **[CCLemma](https://dl.acm.org/doi/10.1145/3674653)**: E-Graph Guided Lemma Discovery for Inductive Equational Proofs.   *ICFP 2024*.
 
-- **[enumo](https://dl.acm.org/doi/10.1145/3622834)**: Equality Saturation Theory Exploration à la Carte.  
-  *OOPSLA 2023*.
+- **[enumo](https://dl.acm.org/doi/10.1145/3622834)**: Equality Saturation Theory Exploration à la Carte.  *OOPSLA 2023*.
 
-- **[babble](https://dl.acm.org/doi/abs/10.1145/3571207)**: Learning Better Abstractions with E-Graphs and Anti-unification.  
-  *POPL 2023*.
+- **[babble](https://dl.acm.org/doi/abs/10.1145/3571207)**: Learning Better Abstractions with E-Graphs and Anti-unification.  *POPL 2023*.
 
-- **[MegaLibm](https://dl.acm.org/doi/pdf/10.1145/3632874)**: Implementation and Synthesis of Math Library Functions.  
-  *POPL 2024*. Distinguished paper.
+- **[MegaLibm](https://dl.acm.org/doi/pdf/10.1145/3632874)**: Implementation and Synthesis of Math Library Functions.  *POPL 2024*. Distinguished paper.
 
 ### Program Optimization
 
 - **[Herbie](https://herbie.uwplse.org/pldi15-paper.pdf)**: Automatically Improving Accuracy for Floating Point Expressions.  
   *PLDI 2015*. Distinguished paper.
 
-- **[Felix](https://dl.acm.org/doi/10.1145/3620666.3651348)**: Optimizing Tensor Programs with Gradient Descent.  
-  *ASPLOS 2024*.
+- **[Felix](https://dl.acm.org/doi/10.1145/3620666.3651348)**: Optimizing Tensor Programs with Gradient Descent.   *ASPLOS 2024*.
 
 - **[aegraphs](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf)**: Acyclic E-graphs
 for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328>
@@ -132,15 +124,16 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[SpEQ](https://dl.acm.org/doi/10.1145/3656445)**: Translation of Sparse Codes using Equivalences
 
+- **[ACC Saturator](https://arxiv.org/abs/2306.13002)** : Automatic Kernel Optimization for Directive-Based GPU Code
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
-- **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean.  
-  *Thesis 2023*.
-  - **[KestRel](https://arxiv.org/abs/2404.08106)**: Relational Verification Using E-Graphs for Program Alignment.  
-  *EGRAPHS 2023*.
+- **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean. *Thesis 2023*.
+- **[KestRel](https://arxiv.org/abs/2404.08106)**: Relational Verification Using E-Graphs for Program Alignment.  *EGRAPHS 2023*.
 - **[cyclegg](https://github.com/nadia-polikarpova/cyclegg)**
 - **[coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)**
+- **[Fast Approximations of Quantifier Elimination](https://link.springer.com/chapter/10.1007/978-3-031-37703-7_4)**
 
 ### Other
 
