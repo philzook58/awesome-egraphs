@@ -7,7 +7,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Awesome E-Graphs ](#awesome-e-graphs-)
   - [Table of Contents](#table-of-contents)
   - [Community](#community)
-  - [Projects](#projects)
+  - [Egraph Implementations](#egraph-implementations)
   - [General](#general)
   - [Applications](#applications)
     - [Hardware](#hardware)
@@ -39,7 +39,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[Community Meetings](https://egraphs.org/meeting/)**
 - [PLDI EGRAPHS Workshop](https://pldi24.sigplan.org/home/egraphs-2024)
 
-## Projects
+## Egraph Implementations
 
 - **[egg](https://egraphs-good.github.io/)**
 - **[egglog](https://github.com/egraphs-good/egglog)**
@@ -51,13 +51,16 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[quiche](https://github.com/riswords/quiche)**
 - **[egraphs.cpp](https://github.com/can-lehmann/egraphs.cpp)
 - **[eqsat](https://github.com/taktoa/eqsat)**
+- **[eggmt](https://github.com/philzook58/eggmt)**
 
 ## General
 
 - [Fast Decision Procedures Based on Congruence Closure](https://dl.acm.org/doi/10.1145/322186.322198)
+- [Proof-Producing Congruence Closure](https://www.cs.upc.edu/~roberto/papers/rta05.pdf)
 - [Efficient E-matching for SMT Solvers](https://leodemoura.github.io/files/ematching.pdf)
 - [egg](https://arxiv.org/abs/2004.03082) Fast and Extensible Equality Saturation
 - [egglog](https://dl.acm.org/doi/abs/10.1145/3591239) Better Together: Unifying Datalog and Equality Saturation
+- [Small Proofs from Congruence Closure](https://arxiv.org/abs/2209.03398)
 - [Colored Egraphs](https://github.com/eytans/easter-egg)
 
 ## Applications
