@@ -172,7 +172,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 ## Scheduling
 
-- **[Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond]**(https://arxiv.org/abs/2407.12794)
+- **[Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond](https://arxiv.org/abs/2407.12794)**
 
 
 ## Talks
