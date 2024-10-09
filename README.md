@@ -222,3 +222,4 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [What's in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
 - [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
 - [Automating Transport with Univalent E-Graphs](https://taliasplse.wordpress.com/2020/02/02/automating-transport-with-univalent-e-graphs/)
+- [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
