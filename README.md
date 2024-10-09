@@ -205,6 +205,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 [Accepted Papers](https://pldi24.sigplan.org/home/egraphs-2024#event-overview)
 
+[youtube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4UHRXP0VkuYen9nkn4bczW)
+
 ### EGRAPHS 2023
 
 [Presentations](https://pldi23.sigplan.org/home/egraphs-2023#event-overview)
@@ -213,6 +215,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 [Accepted papers](https://pldi22.sigplan.org/home/egraphs-2022#event-overview)
 
+[youtube](https://www.youtube.com/watch?v=dbgZJyw3hnk&t=2725s&ab_channel=ACMSIGPLAN)
 ## Blog Posts
 
 - [The e-graph data structure: A gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
@@ -223,3 +226,4 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
 - [Automating Transport with Univalent E-Graphs](https://taliasplse.wordpress.com/2020/02/02/automating-transport-with-univalent-e-graphs/)
 - [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
+- [Binding in E-graphs](https://pavpanchekha.com/blog/egg-bindings.html)
