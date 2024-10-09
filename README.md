@@ -197,6 +197,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [egglog Tutorial (EGRAPHS 2023) | Next Generation Egraphs](https://www.youtube.com/watch?v=N2RDQGRBrSY&t=3s&ab_channel=oflatteducation)
 - [egglog: E-Graphs in Python](https://www.youtube.com/watch?v=Pbi2uV9vWPg&t=2962s&ab_channel=OpenTeams)
 - [ægraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://vimeo.com/843540328)
+- [E-Graphs and Automated Reasoning: Looking Back to Look Forward](https://www.youtube.com/watch?v=74VP0SbNHDE&t=149s&ab_channel=PhilipZucker)
 
 ## EGRAPHS Workshop
 
