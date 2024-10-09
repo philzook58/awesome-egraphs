@@ -70,11 +70,7 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 ### Hardware
 
-- **[Isaria](https://dl.acm.org/doi/10.1145/3617232.3624873)**: Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors.   *ASPLOS 2024*. Best paper.
-
 - **[ROVER](https://arxiv.org/abs/2404.12336)**: Combining Power and Arithmetic Optimization via Datapath Rewriting.   *ARITH 2024*.
-
-- **[Diospyros](https://dl.acm.org/doi/10.1145/3445814.3446707)**: Vectorization for Digital Signal Processors via Equality Saturation.   *ASPLOS 2021*.
 
 - **[Infinity Stream](https://dl.acm.org/doi/10.1145/3582016.3582032)**: Portable and Programmer-Friendly In-/Near-Memory Fusion.  *ASPLOS 2023*.
 
@@ -100,6 +96,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[MegaLibm](https://dl.acm.org/doi/pdf/10.1145/3632874)**: Implementation and Synthesis of Math Library Functions.  *POPL 2024*. Distinguished paper.
 
+- **[Isaria](https://dl.acm.org/doi/10.1145/3617232.3624873)**: Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors.   *ASPLOS 2024*. Best paper.
+
 ### Program Optimization
 
 - **[Herbie](https://herbie.uwplse.org/pldi15-paper.pdf)**: Automatically Improving Accuracy for Floating Point Expressions.  
@@ -115,6 +113,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[peggy](https://cseweb.ucsd.edu/~rtate/publications/eqsat/)** Equality Saturation: A New Approach to Optimization
 
 - **[optir](https://github.com/jameysharp/optir/)** RVSDG optimizing intermediate representation
+
+- **[eggcc](https://github.com/egraphs-good/eggcc)**
 
 - **[Denali](https://dl.acm.org/doi/abs/10.1145/1186632.1186633)**  A practical algorithm for generating optimal code
 
@@ -141,6 +141,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[High-performance symbolic-numerics via multiple dispatch](https://arxiv.org/abs/2105.03949)**
 
 - **[Q-gym](https://people.csail.mit.edu/baghdadi/public/papers/qgym.pdf)**: An Equality Saturation Framework for DNN Inference Exploiting Weight Repetition
+
+- **[Diospyros](https://dl.acm.org/doi/10.1145/3445814.3446707)**: Vectorization for Digital Signal Processors via Equality Saturation.   *ASPLOS 2021*.
 
 ### Theorem Proving and Verification
 
@@ -189,6 +191,12 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 
 ## Talks
+
+- [egg: Fast and Extensible Equality Saturation](https://www.youtube.com/watch?v=6cJMI9z2TeU&ab_channel=ACMSIGPLAN)
+- [Better Together: Unifying Datalog and Equality Saturation (PLDI 2023)](https://www.youtube.com/watch?v=VZytqLrQvdY&ab_channel=YihongZhang)
+- [egglog Tutorial (EGRAPHS 2023) | Next Generation Egraphs](https://www.youtube.com/watch?v=N2RDQGRBrSY&t=3s&ab_channel=oflatteducation)
+- [egglog: E-Graphs in Python](https://www.youtube.com/watch?v=Pbi2uV9vWPg&t=2962s&ab_channel=OpenTeams)
+- [ægraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://vimeo.com/843540328)
 
 ## EGRAPHS Workshop
 
