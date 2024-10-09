@@ -138,6 +138,9 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[ACC Saturator](https://arxiv.org/abs/2306.13002)** : Automatic Kernel Optimization for Directive-Based GPU Code
 
+- **[High-performance symbolic-numerics via multiple dispatch](https://arxiv.org/abs/2105.03949)**
+
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
