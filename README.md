@@ -46,18 +46,23 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[eqsat](https://github.com/taktoa/eqsat)**
 - **[eggmt](https://github.com/philzook58/eggmt)**
 - **[ekege](https://github.com/miestrode/ekege)**
+- **[Eqlog](https://github.com/eqlog/eqlog)**
+- **[GATlab](https://github.com/AlgebraicJulia/GATlab.jl)**
 
 ## General
 
 - [Fast Decision Procedures Based on Congruence Closure](https://dl.acm.org/doi/10.1145/322186.322198)
 - [Proof-Producing Congruence Closure](https://www.cs.upc.edu/~roberto/papers/rta05.pdf)
 - [Efficient E-matching for SMT Solvers](https://leodemoura.github.io/files/ematching.pdf)
+- [The Chase Revisited](https://dbucsd.github.io/paperpdfs/2008_8.pdf)
 - [egg](https://arxiv.org/abs/2004.03082) Fast and Extensible Equality Saturation
 - [egglog](https://dl.acm.org/doi/abs/10.1145/3591239) Better Together: Unifying Datalog and Equality Saturation
 - [Small Proofs from Congruence Closure](https://arxiv.org/abs/2209.03398)
 - [Colored E-Graphs](https://github.com/eytans/easter-egg)
 - [Slotted E-Graphs](https://michel.steuwer.info/files/publications/2024/EGRAPHS-2024.pdf)
 - [E-Graphs, VSAs, and Tree Automata: a Rosetta Stone](https://remy.wang/reports/dfta.pdf)
+- [An Evaluation Algorithm for Datalog with Equality](https://www.mbid.me/eqlog-algorithm/)
+- [Algebraic Semantics of Datalog with Equality](https://www.mbid.me/eqlog-semantics/)
 
 ## Applications
 
@@ -141,6 +146,10 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[cyclegg](https://github.com/nadia-polikarpova/cyclegg)**
 - **[coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)**
 - **[Fast Approximations of Quantifier Elimination](https://link.springer.com/chapter/10.1007/978-3-031-37703-7_4)**
+- **[Congruence Closure in Intensional Type Theory](https://link.springer.com/chapter/10.1007/978-3-319-40229-1_8)**
+- **[Congruence Closure in Cubical Type Theory](https://cs.au.dk/~spitters/Emil.pdf)**
+- **[ZOMBIE](https://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf)**: Programming up to Congruence
+- **[GATlab](https://arxiv.org/pdf/2404.04837)**: Modeling and Programming with Generalized Algebraic Theories
 
 ### Other
 
@@ -199,3 +208,4 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Gauss and Groebner Egraphs: Intrinsic Linear and Polynomial Equations](https://www.philipzucker.com/linear_grobner_egraph/)
 - [What's in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
 - [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
+- [Automating Transport with Univalent E-Graphs](https://taliasplse.wordpress.com/2020/02/02/automating-transport-with-univalent-e-graphs/)
