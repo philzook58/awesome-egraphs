@@ -140,6 +140,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[High-performance symbolic-numerics via multiple dispatch](https://arxiv.org/abs/2105.03949)**
 
+- **[Q-gym](https://people.csail.mit.edu/baghdadi/public/papers/qgym.pdf)**: An Equality Saturation Framework for DNN Inference Exploiting Weight Repetition
 
 ### Theorem Proving and Verification
 
