@@ -184,6 +184,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [E-Graphs as Circuits, and Optimal Extraction via Treewidth](https://arxiv.org/pdf/2408.17042)
 - [Notes on the scheduling and extraction problems of EqSat](https://effect.systems/blog/eqsat-schedule-extract-notes.html)
 - [Answer Set Programming for E-Graph DAG extraction](https://www.philipzucker.com/asp-for-egraph-extraction/)
+- [Fast and Optimal Extraction for Sparse Equality Graphs](https://dl.acm.org/doi/10.1145/3689801)
+
 
 ## Scheduling
 
