@@ -48,6 +48,9 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[ekege](https://github.com/miestrode/ekege)**
 - **[Eqlog](https://github.com/eqlog/eqlog)**
 - **[GATlab](https://github.com/AlgebraicJulia/GATlab.jl)**
+- **[marktoberdorf-egglog](https://github.com/ztatlock/2024-marktoberdorf-egglog)**
+- **[egraph-sqlite](https://github.com/yihozhang/egraph-sqlite)**
+- **[egglog-speedrun](https://github.com/Alex-Fischman/egglog-speedrun)**
 
 ## General
 
