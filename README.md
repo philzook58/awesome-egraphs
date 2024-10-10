@@ -156,6 +156,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[Congruence Closure in Cubical Type Theory](https://cs.au.dk/~spitters/Emil.pdf)**
 - **[ZOMBIE](https://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf)**: Programming up to Congruence
 - **[GATlab](https://arxiv.org/pdf/2404.04837)**: Modeling and Programming with Generalized Algebraic Theories
+- **[Transforming Optimization Problems into Disciplined Convex Programming Form](https://goens.org/publications/fernandez-mir-cicm-24/cicm24.pdf)**
 
 ### Other
 
