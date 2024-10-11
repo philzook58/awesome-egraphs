@@ -182,6 +182,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[wasm-evasion](https://www.sciencedirect.com/science/article/pii/S0167404823002067)**: WebAssembly diversification for malware evasion.  
   *COSE 2023*.
 
+- **[Guided Equality Saturation](https://dl.acm.org/doi/10.1145/3632900): Improve performance/capabilities by using guides in a semi-automatic equality saturation process. *POPL 2024*.
 ## Extraction
 
 - [extraction-gym](https://github.com/egraphs-good/extraction-gym)
