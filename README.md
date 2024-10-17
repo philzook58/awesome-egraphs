@@ -150,7 +150,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
-- **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean. *Thesis 2023*.
+- **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean. *Thesis 2023*. ([repo](https://github.com/marcusrossel/lean-egg))
 - **[KestRel](https://arxiv.org/abs/2404.08106)**: Relational Verification Using E-Graphs for Program Alignment.  *EGRAPHS 2023*.
 - **[cyclegg](https://github.com/nadia-polikarpova/cyclegg)**
 - **[coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)**
@@ -160,6 +160,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[ZOMBIE](https://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf)**: Programming up to Congruence
 - **[GATlab](https://arxiv.org/pdf/2404.04837)**: Modeling and Programming with Generalized Algebraic Theories
 - **[Transforming Optimization Problems into Disciplined Convex Programming Form](https://goens.org/publications/fernandez-mir-cicm-24/cicm24.pdf)**
+- **[Coquetier](https://dspace.mit.edu/bitstream/handle/1721.1/150194/Bourgeat-bthom-PhD-EECS-2022-thesis.pdf)** a simplification tactic for our Coq toolbox
 
 ### Other
 
