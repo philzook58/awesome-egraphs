@@ -147,6 +147,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[Diospyros](https://dl.acm.org/doi/10.1145/3445814.3446707)**: Vectorization for Digital Signal Processors via Equality Saturation.   *ASPLOS 2021*.
 
+- **[Chassis](https://arxiv.org/abs/2410.14025)** : Target-Aware Implementation of Real Expressions
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
