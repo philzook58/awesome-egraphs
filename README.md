@@ -151,6 +151,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search](https://dl.acm.org/doi/10.1145/3656019.3689611)
 
+- [Latent Idiom Recognition for a Minimalist Functional Array Language Using Equality Saturation](https://dl.acm.org/doi/abs/10.1109/CGO57630.2024.10444879) 
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
