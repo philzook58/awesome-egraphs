@@ -149,6 +149,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[Chassis](https://arxiv.org/abs/2410.14025)** : Target-Aware Implementation of Real Expressions
 
+- [Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search](https://dl.acm.org/doi/10.1145/3656019.3689611)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
@@ -186,6 +188,9 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
   *COSE 2023*.
 
 - **[Guided Equality Saturation](https://dl.acm.org/doi/10.1145/3632900)**: Improve performance/capabilities by using guides in a semi-automatic equality saturation process. *POPL 2024*.
+
+- [Novel Algorithms for Computing Correlation Functions of Nuclei](https://arxiv.org/pdf/2201.04269)
+
 ## Extraction
 
 - [extraction-gym](https://github.com/egraphs-good/extraction-gym)
