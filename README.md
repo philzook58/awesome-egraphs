@@ -87,6 +87,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[There and Back Again](https://arxiv.org/abs/2404.00786)**  A Netlist's Tale with Much Egraphin'
 
+- **[E-Syn](https://arxiv.org/abs/2403.14242)** First Eqsat framework for technology-aware logic synthesis
+
 ### Program Synthesis
 
 - **[Ruler](https://ztatlock.net/pub-2021-oopsla-ruler.html)**: Rewrite Rule Inference Using Equality Saturation.  *OOPSLA 2021*. Distinguished paper.
