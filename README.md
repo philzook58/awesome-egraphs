@@ -87,7 +87,7 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[There and Back Again](https://arxiv.org/abs/2404.00786)**  A Netlist's Tale with Much Egraphin'
 
-- **[E-Syn](https://arxiv.org/abs/2403.14242)** First Eqsat framework for technology-aware logic synthesis
+- **[E-Syn](https://arxiv.org/abs/2403.14242)** Eqsat framework for technology-aware logic synthesis
 
 ### Program Synthesis
 
