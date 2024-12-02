@@ -61,7 +61,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [egg](https://arxiv.org/abs/2004.03082) Fast and Extensible Equality Saturation
 - [egglog](https://dl.acm.org/doi/abs/10.1145/3591239) Better Together: Unifying Datalog and Equality Saturation
 - [Small Proofs from Congruence Closure](https://arxiv.org/abs/2209.03398)
-- [Colored E-Graphs](https://github.com/eytans/easter-egg)
+- [Colored E-Graphs](https://github.com/eytans/easter-egg) [arxiv](https://arxiv.org/abs/2305.19203)
 - [Slotted E-Graphs](https://michel.steuwer.info/files/publications/2024/EGRAPHS-2024.pdf)
 - [E-Graphs, VSAs, and Tree Automata: a Rosetta Stone](https://remy.wang/reports/dfta.pdf)
 - [An Evaluation Algorithm for Datalog with Equality](https://www.mbid.me/eqlog-algorithm/)
