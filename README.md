@@ -66,6 +66,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [E-Graphs, VSAs, and Tree Automata: a Rosetta Stone](https://remy.wang/reports/dfta.pdf)
 - [An Evaluation Algorithm for Datalog with Equality](https://www.mbid.me/eqlog-algorithm/)
 - [Algebraic Semantics of Datalog with Equality](https://www.mbid.me/eqlog-semantics/)
+- [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413)
 
 ## Applications
 
