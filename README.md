@@ -170,6 +170,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[GATlab](https://arxiv.org/pdf/2404.04837)**: Modeling and Programming with Generalized Algebraic Theories
 - **[Transforming Optimization Problems into Disciplined Convex Programming Form](https://goens.org/publications/fernandez-mir-cicm-24/cicm24.pdf)**
 - **[Coquetier](https://dspace.mit.edu/bitstream/handle/1721.1/150194/Bourgeat-bthom-PhD-EECS-2022-thesis.pdf)** a simplification tactic for our Coq toolbox
+- **[Juniper](https://github.com/MixedMatched/juniper)** Lean + egg CAS
 
 ### Other
 
