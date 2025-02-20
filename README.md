@@ -239,7 +239,7 @@ See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rule
 - https://github.com/uwplse/tensat/blob/master/src/rewrites.rs Tensat
 - https://github.com/gussmith23/glenside/blob/main/src/language/rewrites.rs Glenside
 - https://github.com/ADAPT-uiuc/TensorRight/tree/master/rules TensorRight
-- https://github.com/mrocklin/matrix-algebra Matrix algerba in Maude
+- https://github.com/mrocklin/matrix-algebra Matrix algebra in Maude
 - https://github.com/risinglightdb/risinglight/blob/main/src/planner/rules/plan.rs RisingLight DB
 - https://github.com/YosysHQ/yosys/tree/main/passes/opt Yosys opt
 - https://gist.github.com/manasij7479/2ad0f7f058503ae60de30e4bfb30c917 Hydra peephole rules
