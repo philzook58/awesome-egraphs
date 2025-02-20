@@ -104,6 +104,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[Isaria](https://dl.acm.org/doi/10.1145/3617232.3624873)**: Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors.   *ASPLOS 2024*. Best paper.
 
+- **[srtree](https://github.com/folivetti/srtree/tree/main)** A supporting library for tree-based symbolic regression
+
 ### Program Optimization
 
 - **[Herbie](https://herbie.uwplse.org/pldi15-paper.pdf)**: Automatically Improving Accuracy for Floating Point Expressions.  
