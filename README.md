@@ -244,6 +244,7 @@ See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rule
 - https://github.com/risinglightdb/risinglight/blob/main/src/planner/rules/plan.rs RisingLight DB
 - https://github.com/YosysHQ/yosys/tree/main/passes/opt Yosys opt
 - https://gist.github.com/manasij7479/2ad0f7f058503ae60de30e4bfb30c917 Hydra peephole rules
+- https://github.com/llvm/llvm-project/tree/main/llvm/lib/Transforms/InstCombine LLVM InstCombine peephole optimizations
 - https://gappa.gitlabpages.inria.fr/gappa/theorems.html Gappa floating point rules
 - https://github.com/yihozhang/szalinski-egglog/tree/main/egglog_src/rules Szalinski egglog
 - https://github.com/caviar-trs/caviar/tree/main/src/rules Caviar rules
