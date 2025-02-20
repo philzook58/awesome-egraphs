@@ -15,6 +15,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
     - [Program Optimization](#program-optimization)
     - [Theorem Proving and Verification](#theorem-proving-and-verification)
     - [Other](#other)
+  - [Rulesets](#rulesets)
   - [Extraction](#extraction)
   - [Scheduling](#scheduling)
   - [EGRAPHS Workshop](#egraphs-workshop)
