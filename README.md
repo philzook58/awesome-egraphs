@@ -154,7 +154,9 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search](https://dl.acm.org/doi/10.1145/3656019.3689611)
 
-- [Latent Idiom Recognition for a Minimalist Functional Array Language Using Equality Saturation](https://dl.acm.org/doi/abs/10.1109/CGO57630.2024.10444879) 
+- [Latent Idiom Recognition for a Minimalist Functional Array Language Using Equality Saturation](https://dl.acm.org/doi/abs/10.1109/CGO57630.2024.10444879)
+
+- [Optimizing Regular Expressions via Rewrite-Guided Synthesis](https://dl.acm.org/doi/pdf/10.1145/3559009.3569664)
 
 ### Theorem Proving and Verification
 
@@ -204,6 +206,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Notes on the scheduling and extraction problems of EqSat](https://effect.systems/blog/eqsat-schedule-extract-notes.html)
 - [Answer Set Programming for E-Graph DAG extraction](https://www.philipzucker.com/asp-for-egraph-extraction/)
 - [Fast and Optimal Extraction for Sparse Equality Graphs](https://dl.acm.org/doi/10.1145/3689801)
+- [SmoothE](https://www.csl.cornell.edu/~zhiruz/pdfs/smoothe-asplos2025.pdf) Differentiable E-Graph Extraction
 
 
 ## Scheduling
