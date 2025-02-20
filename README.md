@@ -201,6 +201,53 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Novel Algorithms for Computing Correlation Functions of Nuclei](https://arxiv.org/pdf/2201.04269)
 
+## Rulesets
+Pointers to the actual files are preferred. Human readable tables and imperative implementations are ok. A goal is to move these rules into more declarative and machine executable forms. Often files are in benchmarks or test directories
+
+See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rules/)
+
+- https://github.com/egraphs-good/egg/tree/main/tests egg test files
+- https://github.com/egraphs-good/egglog/tree/main/tests Egglog test files
+- https://github.com/uwplse/ruler/tree/main/tests Ruler
+- https://github.com/herbie-fp/herbie/blob/main/src/core/rules.rkt Herbie floating point rules
+- https://rulebasedintegration.org/ Rubi rule based integration
+- https://fungrim.org/ The Mathematical Functions Grimoire
+- https://personal.math.ubc.ca/~cbm/aands/   Abramowitz and Stegun: Handbook of Mathematical Functions
+- https://en.wikipedia.org/wiki/Summation#Identities
+- https://en.wikipedia.org/wiki/List_of_trigonometric_identities
+- https://github.com/Boolector/boolector/blob/master/src/btorrewrite.c Boolector rewrites
+- https://gitlab.com/haroldaptroot/haroldbot/-/blob/main/prooffinder.js?ref_type=heads Bitvector rewrites
+- https://en.wikipedia.org/wiki/List_of_set_identities_and_relations
+- https://github.com/mgree/katbury Kleene Algebra
+- https://www.philipzucker.com/rust-category/ Category theory
+- https://github.com/philzook58/Catlab.jl/blob/master/src/theories/Monoidal.jl Catlab.jl category theory
+- https://github.com/TermCOMP/TPDB The termination competition
+- https://sourcesup.renater.fr/scm/viewvc.php/rec/2019-CONVECS/ Rewrite engine competition
+- https://github.com/bytekid/mkbtt/tree/master/input mkbtt Knuth Bendix completion solver tests
+- https://www.tptp.org/ TPTP UEQ. How to collect these up?
+- https://github.com/nick8325/twee/tree/master/tests Twee Tests
+- https://github.com/ndmitchell/hlint/blob/master/data/hlint.yaml HLint
+- https://github.com/golang/go/tree/master/src/cmd/compile/internal/ssa/_gen Go compiler
+- https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/codegen/src/isa/riscv64/inst.isle Cranelift Riscv64 isle
+- https://github.com/cvc5/cvc5/blob/main/src/theory/bv/rewrites CVC5 RARE files
+- https://github.com/gcc-mirror/gcc/blob/master/gcc/match.pd GCC rewrites
+- https://github.com/llvm/llvm-project/blob/main/mlir/lib/Dialect/Arith/IR/ArithCanonicalization.td MLIR Canonicalizer files
+- https://github.com/cucapra/diospyros/blob/master/src/dios-egraphs/src/rules.rs Diospyros
+- https://github.com/halide/Halide/blob/2e36da4d7631464272640a2126854748da299d54/src/Simplify_Sub.cpp Halide Simplify_* files
+- https://github.com/Bastacyclop/egg-sketches/blob/main/examples/bench_tiling.rs
+- https://github.com/rise-lang/shine/blob/main/src/main/scala/rise/eqsat/rules.scala RiSE scheduling
+- https://github.com/uwplse/tensat/blob/master/src/rewrites.rs Tensat
+- https://github.com/gussmith23/glenside/blob/main/src/language/rewrites.rs Glenside
+- https://github.com/ADAPT-uiuc/TensorRight/tree/master/rules TensorRight
+- https://github.com/mrocklin/matrix-algebra Matrix algerba in Maude
+- https://github.com/risinglightdb/risinglight/blob/main/src/planner/rules/plan.rs RisingLight DB
+- https://github.com/YosysHQ/yosys/tree/main/passes/opt Yosys opt
+- https://gist.github.com/manasij7479/2ad0f7f058503ae60de30e4bfb30c917 Hydra peephole rules
+- https://gappa.gitlabpages.inria.fr/gappa/theorems.html Gappa floating point rules
+- https://github.com/yihozhang/szalinski-egglog/tree/main/egglog_src/rules Szalinski egglog
+- https://github.com/caviar-trs/caviar/tree/main/src/rules Caviar rules
+- https://github.com/NationalSecurityAgency/ghidra/blob/2eff37f655159574593b15bc19273915fc780cf2/Ghidra/Features/Decompiler/src/decompile/cpp/rulecompile.cc Ghidra rewrites
+
 ## Extraction
 
 - [extraction-gym](https://github.com/egraphs-good/extraction-gym)
@@ -211,7 +258,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [SmoothE](https://www.csl.cornell.edu/~zhiruz/pdfs/smoothe-asplos2025.pdf) Differentiable E-Graph Extraction
 
 
-## Scheduling
+## Rule Scheduling
 
 - **[Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond](https://arxiv.org/abs/2407.12794)**
 
