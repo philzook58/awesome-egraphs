@@ -63,7 +63,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [egglog](https://dl.acm.org/doi/abs/10.1145/3591239) Better Together: Unifying Datalog and Equality Saturation
 - [Small Proofs from Congruence Closure](https://arxiv.org/abs/2209.03398)
 - [Colored E-Graphs](https://github.com/eytans/easter-egg) [arxiv](https://arxiv.org/abs/2305.19203)
-- [Slotted E-Graphs](https://michel.steuwer.info/files/publications/2024/EGRAPHS-2024.pdf)
+- [Slotted E-Graphs](https://michel.steuwer.info/files/publications/2024/EGRAPHS-2024.pdf) [PLDI paper](https://michel.steuwer.info/files/publications/2025/PLDI-2025.pdf)
 - [E-Graphs, VSAs, and Tree Automata: a Rosetta Stone](https://remy.wang/reports/dfta.pdf)
 - [An Evaluation Algorithm for Datalog with Equality](https://www.mbid.me/eqlog-algorithm/)
 - [Algebraic Semantics of Datalog with Equality](https://www.mbid.me/eqlog-semantics/)
@@ -160,6 +160,10 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Latent Idiom Recognition for a Minimalist Functional Array Language Using Equality Saturation](https://dl.acm.org/doi/abs/10.1109/CGO57630.2024.10444879)
 
 - [Optimizing Regular Expressions via Rewrite-Guided Synthesis](https://dl.acm.org/doi/pdf/10.1145/3559009.3569664)
+
+- [MLIR egglog](https://github.com/sdiehl/mlir-egglog)
+
+- **[DialEgg](https://dl.acm.org/doi/10.1145/3696443.3708957)** Dialect-Agnostic MLIR Optimizer using Equality Saturation with Egglog
 
 ### Theorem Proving and Verification
 
@@ -310,3 +314,4 @@ See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rule
 - [Automating Transport with Univalent E-Graphs](https://taliasplse.wordpress.com/2020/02/02/automating-transport-with-univalent-e-graphs/)
 - [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
 - [Binding in E-graphs](https://pavpanchekha.com/blog/egg-bindings.html)
+- [Specializing Python with E-graphs](https://www.stephendiehl.com/posts/mlir_egraphs/)
