@@ -91,6 +91,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[E-Syn](https://arxiv.org/abs/2403.14242)** Eqsat framework for technology-aware logic synthesis
 
+- **[BoolE](https://arxiv.org/abs/2504.05577)** Exact Symbolic Reasoning via Boolean Equality Saturation
+
 ### Program Synthesis
 
 - **[Ruler](https://ztatlock.net/pub-2021-oopsla-ruler.html)**: Rewrite Rule Inference Using Equality Saturation.  *OOPSLA 2021*. Distinguished paper.
