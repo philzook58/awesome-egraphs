@@ -1,6 +1,6 @@
 # Awesome E-Graphs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources related to e-graphs, equality saturation, and their applications. Contributions are welcome! Thanks to [Yihong Zhang](https://effect.systems/) for the initial list.
+A curated list of resources related to e-graphs, equality saturation, and their applications. Contributions are welcome! Thanks to [Yihong Zhang](https://effect.systems/) for the initial [list](https://necessary-taker-84c.notion.site/Saturated-Knowledge-of-Equality-Saturation-9b298720aa724f8b8a72001398e88d9f) which is complementary to this one.
 
 ## Table of Contents
 
