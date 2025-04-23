@@ -70,6 +70,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Algebraic Semantics of Datalog with Equality](https://www.mbid.me/eqlog-semantics/)
 - [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413)
 - [E-graphs Modulo Theories via Bottom-up E-matching](https://arxiv.org/abs/2504.14340)
+- [Dis/Equality Graphs](https://dl.acm.org/doi/abs/10.1145/3704913)
 
 ## Applications
 
@@ -171,6 +172,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[Zob](https://github.com/Rexicon226/zob)** Zig optimizing backend
 
+- [Database Theory in Action: Search-Based Program Optimization](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2025.34)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
@@ -211,6 +214,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[Guided Equality Saturation](https://dl.acm.org/doi/10.1145/3632900)**: Improve performance/capabilities by using guides in a semi-automatic equality saturation process. *POPL 2024*.
 
 - [Novel Algorithms for Computing Correlation Functions of Nuclei](https://arxiv.org/pdf/2201.04269)
+
+- [rEGGression](https://arxiv.org/abs/2501.17859): an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models
 
 ## Rulesets
 Pointers to the actual files are preferred. Human readable tables and imperative implementations are ok. It is all on a spectrum. A goal is to move these rules into more declarative and machine executable forms. Often files are in benchmarks or test directories
