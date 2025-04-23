@@ -52,6 +52,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[marktoberdorf-egglog](https://github.com/ztatlock/2024-marktoberdorf-egglog)**
 - **[egraph-sqlite](https://github.com/yihozhang/egraph-sqlite)**
 - **[egglog-speedrun](https://github.com/Alex-Fischman/egglog-speedrun)**
+- **[zegg](https://github.com/hmusgrave/zegg)**
 
 ## General
 
@@ -68,6 +69,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [An Evaluation Algorithm for Datalog with Equality](https://www.mbid.me/eqlog-algorithm/)
 - [Algebraic Semantics of Datalog with Equality](https://www.mbid.me/eqlog-semantics/)
 - [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413)
+- [E-graphs Modulo Theories via Bottom-up E-matching](https://arxiv.org/abs/2504.14340)
 
 ## Applications
 
@@ -166,6 +168,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [MLIR egglog](https://github.com/sdiehl/mlir-egglog)
 
 - **[DialEgg](https://dl.acm.org/doi/10.1145/3696443.3708957)** Dialect-Agnostic MLIR Optimizer using Equality Saturation with Egglog
+
+- **[Zob](https://github.com/Rexicon226/zob)** Zig optimizing backend
 
 ### Theorem Proving and Verification
 
@@ -317,3 +321,4 @@ See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rule
 - [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
 - [Binding in E-graphs](https://pavpanchekha.com/blog/egg-bindings.html)
 - [Specializing Python with E-graphs](https://www.stephendiehl.com/posts/mlir_egraphs/)
+- [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
