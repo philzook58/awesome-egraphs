@@ -299,6 +299,10 @@ See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rule
 
 ## EGRAPHS Workshop
 
+### EGRAPHS 2025
+
+[Accepted Papers](https://pldi25.sigplan.org/home/egraphs-2025#event-overview)
+
 ### EGRAPHS 2024
 
 [Accepted Papers](https://pldi24.sigplan.org/home/egraphs-2024#event-overview)
