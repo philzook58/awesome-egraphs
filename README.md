@@ -71,6 +71,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413)
 - [E-graphs Modulo Theories via Bottom-up E-matching](https://arxiv.org/abs/2504.14340)
 - [Dis/Equality Graphs](https://dl.acm.org/doi/abs/10.1145/3704913)
+- [E-Graphs with Bindings](https://arxiv.org/abs/2505.00807)
 
 ## Applications
 
@@ -95,6 +96,10 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 - **[E-Syn](https://arxiv.org/abs/2403.14242)** Eqsat framework for technology-aware logic synthesis
 
 - **[BoolE](https://arxiv.org/abs/2504.05577)** Exact Symbolic Reasoning via Boolean Equality Saturation
+
+- **[E-morphic](https://arxiv.org/abs/2504.11574) Scalable Equality Saturation for Structural Exploration in Logic Synthesis
+
+- [Equality Saturation for Circuit Synthesis and Verification](https://samuelcoward.co.uk/assets/pdf/Thesis_Imperial.pdf) Samuel Coward Thesis
 
 ### Program Synthesis
 
@@ -177,11 +182,17 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Database Theory in Action: Search-Based Program Optimization](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2025.34)
 
+- [cgen](https://github.com/bmourad01/cgen/tree/master/src/lib/egraph) compiler backend written in OCaml
+
+- [Equality Saturation for Optimizing High-Level Julia IR](https://arxiv.org/abs/2502.17075)
+
+- [eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](https://arxiv.org/abs/2505.09363)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
 - **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean. *Thesis 2023*. ([repo](https://github.com/marcusrossel/lean-egg))
-- **[KestRel](https://arxiv.org/abs/2404.08106)**: Relational Verification Using E-Graphs for Program Alignment.  *EGRAPHS 2023*.
+- **[KestRel](https://arxiv.org/abs/2404.08106)**: Relational Verification Using E-Graphs for Program Alignment.  *EGRAPHS 2023*. [OOPSLA](https://dl.acm.org/doi/abs/10.1145/3720474)
 - **[cyclegg](https://github.com/nadia-polikarpova/cyclegg)**
 - **[coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)**
 - **[Fast Approximations of Quantifier Elimination](https://link.springer.com/chapter/10.1007/978-3-031-37703-7_4)**
