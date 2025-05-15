@@ -98,6 +98,9 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 ### Program Synthesis
 
+- **[Szalinski](https://dl.acm.org/doi/10.1145/3385412.3386012)**: Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations.  
+  *PLDI 2020*.
+  
 - **[Ruler](https://ztatlock.net/pub-2021-oopsla-ruler.html)**: Rewrite Rule Inference Using Equality Saturation.  *OOPSLA 2021*. Distinguished paper.
 
 - **[CCLemma](https://dl.acm.org/doi/10.1145/3674653)**: E-Graph Guided Lemma Discovery for Inductive Equational Proofs.   *ICFP 2024*.
@@ -196,9 +199,6 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - **[VyZX](https://arxiv.org/abs/2311.11571)**: Formal Verification of a Graphical Quantum Language with automated structural rewrites.  
   *Thesis 2023*.
-
-- **[Szalinski](https://dl.acm.org/doi/10.1145/3385412.3386012)**: Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations.  
-  *PLDI 2020*.
 
 - **[Maletskyi and Shymanskyi](https://ceur-ws.org/Vol-3609/paper21.pdf)**: Genome Compression Using Program Synthesis.  
   *IDDM 2023*.
