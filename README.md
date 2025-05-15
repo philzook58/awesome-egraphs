@@ -97,7 +97,7 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[BoolE](https://arxiv.org/abs/2504.05577)** Exact Symbolic Reasoning via Boolean Equality Saturation
 
-- **[E-morphic](https://arxiv.org/abs/2504.11574) Scalable Equality Saturation for Structural Exploration in Logic Synthesis
+- **[E-morphic](https://arxiv.org/abs/2504.11574)** Scalable Equality Saturation for Structural Exploration in Logic Synthesis
 
 - [Equality Saturation for Circuit Synthesis and Verification](https://samuelcoward.co.uk/assets/pdf/Thesis_Imperial.pdf) Samuel Coward Thesis
 
