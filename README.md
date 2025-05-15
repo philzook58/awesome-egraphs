@@ -188,6 +188,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](https://arxiv.org/abs/2505.09363)
 
+- [Target-Aware Implementation of Real Expressions](https://dl.acm.org/doi/abs/10.1145/3669940.3707277)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
