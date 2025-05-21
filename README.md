@@ -73,6 +73,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [E-graphs Modulo Theories via Bottom-up E-matching](https://arxiv.org/abs/2504.14340)
 - [Dis/Equality Graphs](https://dl.acm.org/doi/abs/10.1145/3704913)
 - [E-Graphs with Bindings](https://arxiv.org/abs/2505.00807)
+- [Relational e-graph matching](https://arxiv.org/abs/2108.02290)
 
 ## Applications
 
