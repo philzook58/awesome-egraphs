@@ -15,14 +15,15 @@ A curated list of resources related to e-graphs, equality saturation, and their 
     - [Program Optimization](#program-optimization)
     - [Theorem Proving and Verification](#theorem-proving-and-verification)
     - [Other](#other)
-  - [Rulesets](#rulesets)
+  - [Blog Posts](#blog-posts)
   - [Extraction](#extraction)
   - [Scheduling](#scheduling)
   - [EGRAPHS Workshop](#egraphs-workshop)
     - [EGRAPHS 2024](#egraphs-2024)
     - [EGRAPHS 2023](#egraphs-2023)
     - [EGRAPHS 2022](#egraphs-2022)
-  - [Blog Posts](#blog-posts)
+  - [Rulesets](#rulesets)
+
 
 ---
 
@@ -230,6 +231,65 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [rEGGression](https://arxiv.org/abs/2501.17859): an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models
 
+## Extraction
+
+- [extraction-gym](https://github.com/egraphs-good/extraction-gym)
+- [E-Graphs as Circuits, and Optimal Extraction via Treewidth](https://arxiv.org/pdf/2408.17042)
+- [Notes on the scheduling and extraction problems of EqSat](https://effect.systems/blog/eqsat-schedule-extract-notes.html)
+- [Answer Set Programming for E-Graph DAG extraction](https://www.philipzucker.com/asp-for-egraph-extraction/)
+- [Fast and Optimal Extraction for Sparse Equality Graphs](https://dl.acm.org/doi/10.1145/3689801)
+- [SmoothE](https://www.csl.cornell.edu/~zhiruz/pdfs/smoothe-asplos2025.pdf) Differentiable E-Graph Extraction
+
+## Scheduling
+
+- **[Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond](https://arxiv.org/abs/2407.12794)**
+
+## Blog Posts
+
+- [The e-graph data structure: A gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
+- [The Theoretical Aspect of Equality Saturation](https://uwplse.org/2023/11/14/Eqsat-theory-i.html)
+- [Acyclic Egraphs and Smart Constructors](https://www.philipzucker.com/smart_constructor_aegraph/)
+- [Gauss and Groebner Egraphs: Intrinsic Linear and Polynomial Equations](https://www.philipzucker.com/linear_grobner_egraph/)
+- [What's in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
+- [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
+- [Automating Transport with Univalent E-Graphs](https://taliasplse.wordpress.com/2020/02/02/automating-transport-with-univalent-e-graphs/)
+- [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
+- [Binding in E-graphs](https://pavpanchekha.com/blog/egg-bindings.html)
+- [Specializing Python with E-graphs](https://www.stephendiehl.com/posts/mlir_egraphs/)
+- [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
+- [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html) Polynomials + e-graphs
+
+## Talks
+
+- [egg: Fast and Extensible Equality Saturation](https://www.youtube.com/watch?v=6cJMI9z2TeU&ab_channel=ACMSIGPLAN)
+- [Better Together: Unifying Datalog and Equality Saturation (PLDI 2023)](https://www.youtube.com/watch?v=VZytqLrQvdY&ab_channel=YihongZhang)
+- [egglog Tutorial (EGRAPHS 2023) | Next Generation Egraphs](https://www.youtube.com/watch?v=N2RDQGRBrSY&t=3s&ab_channel=oflatteducation)
+- [egglog: E-Graphs in Python](https://www.youtube.com/watch?v=Pbi2uV9vWPg&t=2962s&ab_channel=OpenTeams)
+- [ægraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://vimeo.com/843540328)
+- [E-Graphs and Automated Reasoning: Looking Back to Look Forward](https://www.youtube.com/watch?v=74VP0SbNHDE&t=149s&ab_channel=PhilipZucker)
+
+## EGRAPHS Workshop
+
+### EGRAPHS 2025
+
+[Accepted Papers](https://pldi25.sigplan.org/home/egraphs-2025#event-overview)
+
+### EGRAPHS 2024
+
+[Accepted Papers](https://pldi24.sigplan.org/home/egraphs-2024#event-overview)
+
+[youtube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4UHRXP0VkuYen9nkn4bczW)
+
+### EGRAPHS 2023
+
+[Presentations](https://pldi23.sigplan.org/home/egraphs-2023#event-overview)
+
+### EGRAPHS 2022
+
+[Accepted papers](https://pldi22.sigplan.org/home/egraphs-2022#event-overview)
+
+[youtube](https://www.youtube.com/watch?v=dbgZJyw3hnk&t=2725s&ab_channel=ACMSIGPLAN)
+
 ## Rulesets
 Pointers to the actual files are preferred. Human readable tables and imperative implementations are ok. It is all on a spectrum. A goal is to move these rules into more declarative and machine executable forms. Often files are in benchmarks or test directories
 
@@ -285,62 +345,3 @@ See [Where are all the rewrite rules?](https://www.philipzucker.com/rewrite_rule
 - https://gist.github.com/manasij7479/2ad0f7f058503ae60de30e4bfb30c917 Hydra peephole rules
 - https://github.com/ADAPT-uiuc/TensorRight/tree/master/rules TensorRight
 - https://github.com/gussmith23/glenside/blob/main/src/language/rewrites.rs Glenside
-
-## Extraction
-
-- [extraction-gym](https://github.com/egraphs-good/extraction-gym)
-- [E-Graphs as Circuits, and Optimal Extraction via Treewidth](https://arxiv.org/pdf/2408.17042)
-- [Notes on the scheduling and extraction problems of EqSat](https://effect.systems/blog/eqsat-schedule-extract-notes.html)
-- [Answer Set Programming for E-Graph DAG extraction](https://www.philipzucker.com/asp-for-egraph-extraction/)
-- [Fast and Optimal Extraction for Sparse Equality Graphs](https://dl.acm.org/doi/10.1145/3689801)
-- [SmoothE](https://www.csl.cornell.edu/~zhiruz/pdfs/smoothe-asplos2025.pdf) Differentiable E-Graph Extraction
-
-
-## Rule Scheduling
-
-- **[Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond](https://arxiv.org/abs/2407.12794)**
-
-
-## Talks
-
-- [egg: Fast and Extensible Equality Saturation](https://www.youtube.com/watch?v=6cJMI9z2TeU&ab_channel=ACMSIGPLAN)
-- [Better Together: Unifying Datalog and Equality Saturation (PLDI 2023)](https://www.youtube.com/watch?v=VZytqLrQvdY&ab_channel=YihongZhang)
-- [egglog Tutorial (EGRAPHS 2023) | Next Generation Egraphs](https://www.youtube.com/watch?v=N2RDQGRBrSY&t=3s&ab_channel=oflatteducation)
-- [egglog: E-Graphs in Python](https://www.youtube.com/watch?v=Pbi2uV9vWPg&t=2962s&ab_channel=OpenTeams)
-- [ægraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://vimeo.com/843540328)
-- [E-Graphs and Automated Reasoning: Looking Back to Look Forward](https://www.youtube.com/watch?v=74VP0SbNHDE&t=149s&ab_channel=PhilipZucker)
-
-## EGRAPHS Workshop
-
-### EGRAPHS 2025
-
-[Accepted Papers](https://pldi25.sigplan.org/home/egraphs-2025#event-overview)
-
-### EGRAPHS 2024
-
-[Accepted Papers](https://pldi24.sigplan.org/home/egraphs-2024#event-overview)
-
-[youtube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4UHRXP0VkuYen9nkn4bczW)
-
-### EGRAPHS 2023
-
-[Presentations](https://pldi23.sigplan.org/home/egraphs-2023#event-overview)
-
-### EGRAPHS 2022
-
-[Accepted papers](https://pldi22.sigplan.org/home/egraphs-2022#event-overview)
-
-[youtube](https://www.youtube.com/watch?v=dbgZJyw3hnk&t=2725s&ab_channel=ACMSIGPLAN)
-## Blog Posts
-
-- [The e-graph data structure: A gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
-- [The Theoretical Aspect of Equality Saturation](https://uwplse.org/2023/11/14/Eqsat-theory-i.html)
-- [Acyclic Egraphs and Smart Constructors](https://www.philipzucker.com/smart_constructor_aegraph/)
-- [Gauss and Groebner Egraphs: Intrinsic Linear and Polynomial Equations](https://www.philipzucker.com/linear_grobner_egraph/)
-- [What's in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
-- [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html)
-- [Automating Transport with Univalent E-Graphs](https://taliasplse.wordpress.com/2020/02/02/automating-transport-with-univalent-e-graphs/)
-- [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
-- [Binding in E-graphs](https://pavpanchekha.com/blog/egg-bindings.html)
-- [Specializing Python with E-graphs](https://www.stephendiehl.com/posts/mlir_egraphs/)
-- [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
