@@ -99,7 +99,7 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[BoolE](https://arxiv.org/abs/2504.05577)** Exact Symbolic Reasoning via Boolean Equality Saturation
 
-- **[E-morphic](https://arxiv.org/abs/2504.11574)** Scalable Equality Saturation for Structural Exploration in Logic Synthesis
+- **[E-morphic](https://arxiv.org/abs/2504.11574)** Scalable Equality Saturation for Structural Exploration in Logic Synthesis [repo](https://github.com/Gy-Hu/E-syn2)
 
 - [Equality Saturation for Circuit Synthesis and Verification](https://samuelcoward.co.uk/assets/pdf/Thesis_Imperial.pdf) Samuel Coward Thesis
 
@@ -191,6 +191,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](https://arxiv.org/abs/2505.09363)
 
 - [Target-Aware Implementation of Real Expressions](https://dl.acm.org/doi/abs/10.1145/3669940.3707277)
+
+- **[MISAAL](https://dl.acm.org/doi/pdf/10.1145/3729301)**: Synthesis-Based Automatic Generation of Efficient and Retargetable Semantics-Driven Optimizations
 
 ### Theorem Proving and Verification
 
