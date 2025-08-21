@@ -31,7 +31,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 
 - **[egraphs.org](https://egraphs.org/)**
 - **[zulip](https://egraphs.org/zulip/)**
-- **[Community Meetings](https://egraphs.org/meeting/)**
+- **[Community Meetings](https://egraphs.org/meeting/)** [youtube](https://www.youtube.com/@egraphs-community)
 - **[PLDI EGRAPHS Workshop](https://pldi24.sigplan.org/home/egraphs-2024)**
 
 ## Implementations
@@ -178,7 +178,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [MLIR egglog](https://github.com/sdiehl/mlir-egglog)
 
-- **[DialEgg](https://dl.acm.org/doi/10.1145/3696443.3708957)** Dialect-Agnostic MLIR Optimizer using Equality Saturation with Egglog
+- **[DialEgg](https://dl.acm.org/doi/10.1145/3696443.3708957)** Dialect-Agnostic MLIR Optimizer using Equality Saturation with Egglog [video](https://www.youtube.com/watch?v=C_j_BBk_vLQ)
 
 - **[Zob](https://github.com/Rexicon226/zob)** Zig optimizing backend
 
