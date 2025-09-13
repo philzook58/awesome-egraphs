@@ -54,6 +54,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[egraph-sqlite](https://github.com/yihozhang/egraph-sqlite)**
 - **[egglog-speedrun](https://github.com/Alex-Fischman/egglog-speedrun)**
 - **[zegg](https://github.com/hmusgrave/zegg)**
+- **[prolog egraph](https://github.com/kwon-young/egraph)**
 
 ## General
 
@@ -74,6 +75,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Dis/Equality Graphs](https://dl.acm.org/doi/abs/10.1145/3704913)
 - [E-Graphs with Bindings](https://arxiv.org/abs/2505.00807)
 - [Relational e-graph matching](https://arxiv.org/abs/2108.02290)
+- [Contextual Equality Saturation](https://inria.hal.science/hal-05226543/)
 
 ## Applications
 
@@ -102,6 +104,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 - **[E-morphic](https://arxiv.org/abs/2504.11574)** Scalable Equality Saturation for Structural Exploration in Logic Synthesis [repo](https://github.com/Gy-Hu/E-syn2)
 
 - [Equality Saturation for Circuit Synthesis and Verification](https://samuelcoward.co.uk/assets/pdf/Thesis_Imperial.pdf) Samuel Coward Thesis
+
+- [Yosys + egglog: Supercharge your passes with Equality Saturation](https://github.com/gussmith23/2025-orconf-demo)
 
 ### Program Synthesis
 
@@ -193,6 +197,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Target-Aware Implementation of Real Expressions](https://dl.acm.org/doi/abs/10.1145/3669940.3707277)
 
 - **[MISAAL](https://dl.acm.org/doi/pdf/10.1145/3729301)**: Synthesis-Based Automatic Generation of Efficient and Retargetable Semantics-Driven Optimizations
+
+- [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
 
 ### Theorem Proving and Verification
 
