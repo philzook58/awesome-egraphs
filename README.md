@@ -248,6 +248,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Answer Set Programming for E-Graph DAG extraction](https://www.philipzucker.com/asp-for-egraph-extraction/)
 - [Fast and Optimal Extraction for Sparse Equality Graphs](https://dl.acm.org/doi/10.1145/3689801)
 - [SmoothE](https://www.csl.cornell.edu/~zhiruz/pdfs/smoothe-asplos2025.pdf) Differentiable E-Graph Extraction
+- [e-boost](https://github.com/Yu-Maryland/e-boost) e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving
+- [ESACO](https://ieeexplore.ieee.org/abstract/document/11168886) Fast E-Graph Extraction via Orchestrated Simulated Annealing-based Local Search and Ant Colony Optimization-based Global Search
 
 ## Scheduling
 
