@@ -19,9 +19,6 @@ A curated list of resources related to e-graphs, equality saturation, and their 
   - [Extraction](#extraction)
   - [Scheduling](#scheduling)
   - [EGRAPHS Workshop](#egraphs-workshop)
-    - [EGRAPHS 2024](#egraphs-2024)
-    - [EGRAPHS 2023](#egraphs-2023)
-    - [EGRAPHS 2022](#egraphs-2022)
   - [Rulesets](#rulesets)
 
 
