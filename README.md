@@ -200,7 +200,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
-- **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean. *Thesis 2023*. ([repo](https://github.com/marcusrossel/lean-egg))
+- **[lean-egg](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/2407_Rossel_MA.pdf)**: An Equality Saturation Tactic for Lean. *Thesis 2023*. ([repo](https://github.com/marcusrossel/lean-egg)) [paper](https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf)
 - **[KestRel](https://arxiv.org/abs/2404.08106)**: Relational Verification Using E-Graphs for Program Alignment.  *EGRAPHS 2023*. [OOPSLA](https://dl.acm.org/doi/abs/10.1145/3720474)
 - **[cyclegg](https://github.com/nadia-polikarpova/cyclegg)**
 - **[coq congruence](https://coq.inria.fr/doc/v8.12/refman/proof-engine/tactics.html#coq:tacn.congruence)**
