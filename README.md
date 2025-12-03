@@ -104,6 +104,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - [Yosys + egglog: Supercharge your passes with Equality Saturation](https://github.com/gussmith23/2025-orconf-demo)
 
+- **[EqMap](https://ieeexplore.ieee.org/document/11240672)** FPGA LUT Remapping using E-Graphs
+
 ### Program Synthesis
 
 - **[Szalinski](https://dl.acm.org/doi/10.1145/3385412.3386012)**: Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations.  
