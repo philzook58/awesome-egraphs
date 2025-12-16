@@ -199,6 +199,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
 
+- [ACT](https://arxiv.org/abs/2510.09932): Automatically Generating Compiler Backends from Tensor Accelerator ISA Descriptions
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
