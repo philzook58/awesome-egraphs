@@ -201,6 +201,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [ACT](https://arxiv.org/abs/2510.09932): Automatically Generating Compiler Backends from Tensor Accelerator ISA Descriptions
 
+- [Optimism in Equality Saturation](https://arxiv.org/abs/2511.20782)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
@@ -240,6 +242,10 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Novel Algorithms for Computing Correlation Functions of Nuclei](https://arxiv.org/pdf/2201.04269)
 
 - [rEGGression](https://arxiv.org/abs/2501.17859): an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models
+
+- [eggshell](https://github.com/SaltyPeppermint/eggshell) Wrapper around egg with various TRS implementations for ML
+
+- [egg-bench](https://github.com/philzook58/egg-bench) Benchmark problems for egraphs
 
 ## Extraction
 
