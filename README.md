@@ -125,6 +125,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[srtree](https://github.com/folivetti/srtree/tree/main)** A supporting library for tree-based symbolic regression
 
+- **[TheSy](https://github.com/eytans/TheSy)**: Theory Synthesizer - a theory exploration tool for inductive equational proofs. [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-81688-9_6.pdf)
+
 ### Program Optimization
 
 - **[Herbie](https://herbie.uwplse.org/pldi15-paper.pdf)**: Automatically Improving Accuracy for Floating Point Expressions.  
