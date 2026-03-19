@@ -75,6 +75,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Relational e-graph matching](https://arxiv.org/abs/2108.02290)
 - [Contextual Equality Saturation](https://inria.hal.science/hal-05226543/)
 
+
 ## Applications
 
 A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4026737513542519986) on Google Scholar is a good way to stay up to date
@@ -221,6 +222,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[Transforming Optimization Problems into Disciplined Convex Programming Form](https://goens.org/publications/fernandez-mir-cicm-24/cicm24.pdf)**
 - **[Coquetier](https://dspace.mit.edu/bitstream/handle/1721.1/150194/Bourgeat-bthom-PhD-EECS-2022-thesis.pdf)** a simplification tactic for our Coq toolbox
 - **[Juniper](https://github.com/MixedMatched/juniper)** Lean + egg CAS
+- [Proving properties of functional programs by equality saturation](https://link.springer.com/article/10.1134/S0361768815030056)
 
 ### Other
 
