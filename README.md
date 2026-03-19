@@ -79,6 +79,9 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Congruence Closure Modulo Permutation Equations](https://arxiv.org/abs/2109.03720)
 - [Shostak's congruence closure as completion](https://link.springer.com/chapter/10.1007/3-540-62950-5_59)
 - [Conditional Congruence Closure over Uninterpreted and Interpreted Symbols](https://link.springer.com/article/10.1007/s11424-019-8377-8)
+- [A Modular Associative Commutative (AC) Congruence Closure Algorithm](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2021.15)
+
+
 ## Applications
 
 A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4026737513542519986) on Google Scholar is a good way to stay up to date
