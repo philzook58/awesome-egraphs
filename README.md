@@ -52,6 +52,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[egglog-speedrun](https://github.com/Alex-Fischman/egglog-speedrun)**
 - **[zegg](https://github.com/hmusgrave/zegg)**
 - **[prolog egraph](https://github.com/kwon-young/egraph)**
+- **[eggp](https://github.com/folivetti/eggp/tree/main)**
 
 ## General
 
@@ -278,6 +279,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Specializing Python with E-graphs](https://www.stephendiehl.com/posts/mlir_egraphs/)
 - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 - [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html) Polynomials + e-graphs
+- [Solving Cryptic Crosswords with Egraphs](https://buttondown.com/jaffray/archive/solving-cryptic-crosswords-with-egraphs/)
 
 ## Talks
 
