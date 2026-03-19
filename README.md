@@ -53,6 +53,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[zegg](https://github.com/hmusgrave/zegg)**
 - **[prolog egraph](https://github.com/kwon-young/egraph)**
 - **[eggp](https://github.com/folivetti/eggp/tree/main)**
+- **[microegg](https://github.com/mwillsey/microegg)**
 
 ## General
 
@@ -74,8 +75,10 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [E-Graphs with Bindings](https://arxiv.org/abs/2505.00807)
 - [Relational e-graph matching](https://arxiv.org/abs/2108.02290)
 - [Contextual Equality Saturation](https://inria.hal.science/hal-05226543/)
-
-
+- [Abstract Congruence Closure](https://link.springer.com/article/10.1023/B:JARS.0000009518.26415.49)
+- [Congruence Closure Modulo Permutation Equations](https://arxiv.org/abs/2109.03720)
+- [Shostak's congruence closure as completion](https://link.springer.com/chapter/10.1007/3-540-62950-5_59)
+- [Conditional Congruence Closure over Uninterpreted and Interpreted Symbols](https://link.springer.com/article/10.1007/s11424-019-8377-8)
 ## Applications
 
 A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4026737513542519986) on Google Scholar is a good way to stay up to date
@@ -282,6 +285,10 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 - [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html) Polynomials + e-graphs
 - [Solving Cryptic Crosswords with Egraphs](https://buttondown.com/jaffray/archive/solving-cryptic-crosswords-with-egraphs/)
+- [Monus, Factor, and Thinning Union Finds](https://www.philipzucker.com/thin_monus_uf/)
+- [Weighted Union Find and Ground Knuth Bendix Completion](https://www.philipzucker.com/weighted_uf/)
+- [An Inequality Union Find Inspired by Atomic Asymmetric Completion](https://www.philipzucker.com/asymmetric_complete/)
+- [Verified Code Optimization in Lean 4: How Equality Saturation Generates Proven-Correct C Code with AMO-LEAN](https://blog.lambdaclass.com/amo-lean-towards-formally-verified-optimization-via-equality-saturation-in-lean-4/)
 
 ## Talks
 
