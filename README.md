@@ -213,6 +213,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Optimism in Equality Saturation](https://arxiv.org/abs/2511.20782)
 
+- [Pushing Tensor Accelerators beyond MatMul in a User-Schedulable Language](https://ieeexplore.ieee.org/document/11395214)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
