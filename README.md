@@ -17,7 +17,6 @@ A curated list of resources related to e-graphs, equality saturation, and their 
     - [Other](#other)
   - [Blog Posts](#blog-posts)
   - [Extraction](#extraction)
-  - [Testing](#testing)
   - [Scheduling](#scheduling)
   - [EGRAPHS Workshop](#egraphs-workshop)
   - [Rulesets](#rulesets)
@@ -261,6 +260,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [egg-bench](https://github.com/philzook58/egg-bench) Benchmark problems for egraphs
 
+- [Metamorphic Testing for Infrastructure-as-Code Engines](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf)
+
 ## Extraction
 
 - [extraction-gym](https://github.com/egraphs-good/extraction-gym)
@@ -272,9 +273,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [e-boost](https://github.com/Yu-Maryland/e-boost) e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving
 - [ESACO](https://ieeexplore.ieee.org/abstract/document/11168886) Fast E-Graph Extraction via Orchestrated Simulated Annealing-based Local Search and Ant Colony Optimization-based Global Search
 
-## Testing
-- [Metamorphic Testing for Infrastructure-as-Code Engines](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf)
-  
+
 ## Scheduling
 
 - **[Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond](https://arxiv.org/abs/2407.12794)**
