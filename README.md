@@ -215,6 +215,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Pushing Tensor Accelerators beyond MatMul in a User-Schedulable Language](https://ieeexplore.ieee.org/document/11395214)
 
+- [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707)
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
@@ -297,6 +299,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [Weighted Union Find and Ground Knuth Bendix Completion](https://www.philipzucker.com/weighted_uf/)
 - [An Inequality Union Find Inspired by Atomic Asymmetric Completion](https://www.philipzucker.com/asymmetric_complete/)
 - [Verified Code Optimization in Lean 4: How Equality Saturation Generates Proven-Correct C Code with AMO-LEAN](https://blog.lambdaclass.com/amo-lean-towards-formally-verified-optimization-via-equality-saturation-in-lean-4/)
+- [The acyclic e-graph: Cranelift's mid-end optimizer](https://cfallin.org/blog/2026/04/09/aegraph/)
 
 ## Talks
 
