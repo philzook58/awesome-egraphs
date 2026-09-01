@@ -114,6 +114,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 
 - **[EqMap](https://ieeexplore.ieee.org/document/11240672)** FPGA LUT Remapping using E-Graphs
 
+- **[æSIP](https://ieeexplore.ieee.org/document/11617800)** μArch-Aware ASIP-ISA Co-Design via Program Synthesis, Equality Saturation, and External Don't Cares
+
 ### Program Synthesis
 
 - **[Szalinski](https://dl.acm.org/doi/10.1145/3385412.3386012)**: Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations.  
