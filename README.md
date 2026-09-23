@@ -87,7 +87,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 
 ## Applications
 
-A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4026737513542519986) on Google Scholar is a good way to stay up to date
+A reverse search on the [egg paper](https://scholar.google.com/scholar?cites=11150023215737559036&as_sdt=2005&sciodt=0,5&hl=en) on Google Scholar is a good way to stay up to date
 
 ### Hardware
 
