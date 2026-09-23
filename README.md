@@ -117,6 +117,8 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?cites=111
 
 - **[EqMap](https://ieeexplore.ieee.org/document/11240672)** FPGA LUT Remapping using E-Graphs
 
+- **[æSIP](https://ieeexplore.ieee.org/document/11617800)** μArch-Aware ASIP-ISA Co-Design via Program Synthesis, Equality Saturation, and External Don't Cares
+
 - [Improving Equality Saturation for EDA via Semantic E-Graphs](https://dl.acm.org/doi/10.1145/3808299)  PLDI 2026
 
 - [Fungible Memories for Automated Technology Mapping and Retargeting](https://dl.acm.org/doi/10.1145/3808294) PLDI 2026
