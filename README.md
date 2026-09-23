@@ -222,7 +222,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Pushing Tensor Accelerators beyond MatMul in a User-Schedulable Language](https://ieeexplore.ieee.org/document/11395214)
 
-- [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707)
+- [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707) [Tamagoyaki Github]
+(https://github.com/jumerckx/Tamagoyaki/) - E-Graphs as MLIR dialect
 
 - [Luminal](https://github.com/luminal-ai/luminal) Tensor Compiler. [Community Meeting](https://egraphs.org/meeting/2026-09-17-luminal)
 
