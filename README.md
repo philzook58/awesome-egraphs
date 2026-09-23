@@ -243,6 +243,7 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - **[Coquetier](https://dspace.mit.edu/bitstream/handle/1721.1/150194/Bourgeat-bthom-PhD-EECS-2022-thesis.pdf)** a simplification tactic for our Coq toolbox
 - **[Juniper](https://github.com/MixedMatched/juniper)** Lean + egg CAS
 - [Proving properties of functional programs by equality saturation](https://link.springer.com/article/10.1134/S0361768815030056)
+- Lean's [grind](https://lean-lang.org/doc/reference/latest/The--grind--tactic/) [community meeting](https://egraphs.org/meeting/2025-09-18-grind) [paper](https://link.springer.com/chapter/10.1007/978-3-032-32589-1_7)
 
 ### Other
 
