@@ -53,7 +53,8 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[zegg](https://github.com/hmusgrave/zegg)**
 - **[prolog egraph](https://github.com/kwon-young/egraph)**
 - **[eggp](https://github.com/folivetti/eggp/tree/main)**
-- **[microegg](https://github.com/mwillsey/microegg)**
+- **[microegg](https://github.com/mwillsey/microegg)** [Blog Post](https://pavpanchekha.com/blog/microegg.html)
+- **[lambda microegg](https://github.com/philzook58/lambda-microegg)**
 
 ## General
 
@@ -80,6 +81,8 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - [Shostak's congruence closure as completion](https://link.springer.com/chapter/10.1007/3-540-62950-5_59)
 - [Conditional Congruence Closure over Uninterpreted and Interpreted Symbols](https://link.springer.com/article/10.1007/s11424-019-8377-8)
 - [A Modular Associative Commutative (AC) Congruence Closure Algorithm](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2021.15)
+- [Lifting E-Graphs: A Function Isn't A Constant](https://arxiv.org/abs/2606.22734)
+- [Versioned E-Graphs](https://dl.acm.org/doi/10.1145/3808249)
 
 
 ## Applications
@@ -113,6 +116,10 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?oi=bibs&h
 - [Yosys + egglog: Supercharge your passes with Equality Saturation](https://github.com/gussmith23/2025-orconf-demo)
 
 - **[EqMap](https://ieeexplore.ieee.org/document/11240672)** FPGA LUT Remapping using E-Graphs
+
+- [Improving Equality Saturation for EDA via Semantic E-Graphs](https://dl.acm.org/doi/10.1145/3808299)  PLDI 2026
+
+- [Fungible Memories for Automated Technology Mapping and Retargeting](https://dl.acm.org/doi/10.1145/3808294) PLDI 2026
 
 ### Program Synthesis
 
@@ -217,6 +224,9 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707)
 
+- [Luminal](https://github.com/luminal-ai/luminal) Tensor Compiler. [Community Meeting](https://egraphs.org/meeting/2026-09-17-luminal)
+
+
 ### Theorem Proving and Verification
 
 - Most SMT solvers have an e-matching egraph implementation in them
@@ -263,6 +273,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [egg-bench](https://github.com/philzook58/egg-bench) Benchmark problems for egraphs
 
 - [Metamorphic Testing for Infrastructure-as-Code Engines](https://programming-group.com/assets/pdf/papers/2026_Metamorphic-Testing-for-IaC-Engines.pdf)
+
+- [Equality Saturation for Quantum Circuit Optimization](https://dl.acm.org/doi/10.1145/3808254) PLDI 2026
 
 ## Extraction
 
@@ -312,9 +324,17 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 ## EGRAPHS Workshop
 
+### EGRAPHS 2026
+
+[program](https://pldi26.sigplan.org/home/egraphs-2026#program)
+
+[youtube](https://www.youtube.com/playlist?list=PLTYtq7uWjjS8)
+
 ### EGRAPHS 2025
 
 [Accepted Papers](https://pldi25.sigplan.org/home/egraphs-2025#event-overview)
+
+[youtube](https://www.youtube.com/playlist?list=PLyrlk8Xaylp6I2WmAePRU5xNNGdGhQS2c)
 
 ### EGRAPHS 2024
 
