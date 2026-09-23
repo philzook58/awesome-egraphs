@@ -289,7 +289,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [SmoothE](https://www.csl.cornell.edu/~zhiruz/pdfs/smoothe-asplos2025.pdf) Differentiable E-Graph Extraction
 - [e-boost](https://github.com/Yu-Maryland/e-boost) e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving
 - [ESACO](https://ieeexplore.ieee.org/abstract/document/11168886) Fast E-Graph Extraction via Orchestrated Simulated Annealing-based Local Search and Ant Colony Optimization-based Global Search
-- [Efficient Extraction for Effectful E-graphs](https://ztatlock.net/pubs/2026-oopsla-eggcc/2026-oopsla-eggcc.pdf)
+- [Efficient Extraction for Effectful E-graphs](https://ztatlock.net/pubs/2026-oopsla-eggcc/2026-oopsla-eggcc.pdf) OOPSLA 2026
+- [Answer Set Programming for Egg Extraction and More](https://arxiv.org/abs/2606.10644)
 
 ## Scheduling
 
