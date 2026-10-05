@@ -55,6 +55,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[eggp](https://github.com/folivetti/eggp/tree/main)**
 - **[microegg](https://github.com/mwillsey/microegg)** [Blog Post](https://pavpanchekha.com/blog/microegg.html)
 - **[lambda microegg](https://github.com/philzook58/lambda-microegg)**
+- **[refinement microegg](https://github.com/philzook58/refinement-microegg)**
 
 ## General
 
