@@ -124,6 +124,10 @@ A reverse search on the [egg paper](https://scholar.google.com/scholar?cites=111
 
 - [Fungible Memories for Automated Technology Mapping and Retargeting](https://dl.acm.org/doi/10.1145/3808294) PLDI 2026
 
+- [Finding Reusable Instructions via E-Graph Anti-Unification](https://dl.acm.org/doi/10.1145/3779212.3790162) ASPLOS 2026
+
+- [eLogic: An E-Graph-based Logic Rewriting Framework for Majority-Inverter Graphs](https://ieeexplore.ieee.org/document/11539152) DATE 2026
+
 ### Program Synthesis
 
 - **[Szalinski](https://dl.acm.org/doi/10.1145/3385412.3386012)**: Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations.  
@@ -228,6 +232,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 - [E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707) - E-Graphs as MLIR dialect [Tamagoyaki github](https://github.com/jumerckx/Tamagoyaki/) 
 
 - [Luminal](https://github.com/luminal-ai/luminal) Tensor Compiler. [Community Meeting](https://egraphs.org/meeting/2026-09-17-luminal)
+
+- [Trinity: Three-Dimensional Tensor Program Optimization via Tile-level Equality Saturation](https://dl.acm.org/doi/10.1145/3779212.3790240) ASPLOS 2026
 
 
 ### Theorem Proving and Verification
