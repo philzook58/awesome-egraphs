@@ -280,6 +280,8 @@ for Efficient Optimization in a Production Compiler <https://vimeo.com/843540328
 
 - [Equality Saturation for Quantum Circuit Optimization](https://dl.acm.org/doi/10.1145/3808254) PLDI 2026
 
+- [Shrinking Mission-time LTL Runtime Monitors with Equality Saturation](https://repositum.tuwien.at/handle/20.500.12708/230490) FMCAD 2026
+
 ## Extraction
 
 - [extraction-gym](https://github.com/egraphs-good/extraction-gym)
