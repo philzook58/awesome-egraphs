@@ -40,6 +40,7 @@ A curated list of resources related to e-graphs, equality saturation, and their 
 - **[Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl)** Julia Library
 - **[hegg](https://hackage.haskell.org/package/hegg)** Haskell library
 - **[ego](https://github.com/verse-lab/ego)** OCaml library
+- **[jegg](https://github.com/vecbricks/jegg)** Java library, a port of egg checked against it by differential fuzzing
 - **[quiche](https://github.com/riswords/quiche)**
 - **[egraphs.cpp](https://github.com/can-lehmann/egraphs.cpp)**
 - **[eqsat](https://github.com/taktoa/eqsat)**
